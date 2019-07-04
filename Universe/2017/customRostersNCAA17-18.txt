@@ -330,7 +330,7 @@ Arizona State,Dasmond Tautalatasi,S,3,6
 Arizona State,Ty Thomas,S,1,6
 Arizona State,Evan Fields,S,1,5
 Arizona State,Jeremy Smith,S,1,5
-Arizona State,Jayjay Wilson,TE,3,6
+Arizona State,Jayjay Wilson,TE,9,9
 Arizona State,Christian Hill,TE,4,6
 Arizona State,Tommy Hudson,TE,2,6
 Arizona State,Jared Bubak,TE,1,5
